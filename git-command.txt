@@ -1,0 +1,7 @@
+clear
+ls
+ls -a
+ls -l
+git init
+git add 
+git add .
