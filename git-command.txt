@@ -5,3 +5,6 @@ ls -l
 git init
 git add 
 git add .
+
+git remote -v
+git push origin master
